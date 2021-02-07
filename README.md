@@ -1,6 +1,6 @@
-# Connections_to_IBMDB2_Server
+# Connections_to_IBMDB2_Server through Python in Linux server
 
-# connect from application server to IBM DB2 server (Redhat linux server)
+# connect from application server to IBM DB2 server (Redhat linux server) through Python 
 
 please follow the below steps connecting to IBM DB2 server from application servers
 

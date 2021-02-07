@@ -6,7 +6,7 @@ please follow the below steps connecting to IBM DB2 server from application serv
 
 - Once logged into Linux server, install python 3.6 or above
 - install PIP for downloading/installing libraries
-- check for the connectivity (like network, firewall, port, ping) from python installed server( application/destination server) to Oracle DB server (target server)
+- check for the connectivity (like network, firewall, port, ping) from python installed server( application/destination server) to IBM DB2 server (target server)
 - perform the below python coding and save the script as .py file (example: connect.py)
 - run the script the get the output in python (python3# connect.py)
 - Please follow the below steps installation Python
